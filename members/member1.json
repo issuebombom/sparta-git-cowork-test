@@ -1,7 +1,7 @@
 {
   "id": "member1",
   "name": "김개발",
-  "subName": "프론트엔드 개발자",
+  "subName": "프론트엔드 개발자가 아니고 백엔드 개발자로 수정",
   "profileImage": "image/profile_image.png",
   "introduction": {
     "quote": "사용자 경험을 중시하는\n프론트엔드 개발자입니다.",
